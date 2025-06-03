@@ -1,4 +1,4 @@
-Hi ! an aspiring data person here ! currently working as cx analyst but learning data in my freetime. Feel free to reach me anytime !
+Hi ! an aspiring data person here ! currently working as cx analyst but learning data in my freetime. I made pet project too sometimes. Feel free to reach me anytime !
 
 <!---
 knopnine/knopnine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
